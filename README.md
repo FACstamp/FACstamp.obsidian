@@ -1,13 +1,14 @@
-# FACstamp.obsidian
-
-FACstamp is digital signature applied to digital content.  The digital content can be text, audio, or video, and can part of an existing platform or application, from printed material to all digital.  The stamped content can be generated in/by mainstream media, social media, or any type of digital data collection.  Basically any type of digital data, human or AI generated, can be FACstamped.
-
-Regarding the provenance of the person stamping the content, the content producer/purveyor needs to obtain a FACid prior to obtaining a FACstamp license, which is required to stamp content.  Only human beings can obtain a FACid and hence sign and obtain a FACstamp license agreement.
-
-FACid's have strong boundaries of anonymity as well as identity.  And within these boundaries, a FACid is tied to voter registration in terms of name and address only.  Thus, corporations, governments, and AI implementations can neither obtain a FACid nor stamp content with a FACstamp.  However, it is possible for a group of FACids to sign a AI.FACstamp license agreement allowing for AI generated content to be digitally stamped in an analogous manner via a different license agreement.
-
-The general public can use and leverage FACstamps without any license agreement.  However, as FACstamps come with an expressed warranty of fitness-for-use, to initiate a warranty claim against a specific FACstamp requires a FACid.
-
-Two technical details of interest: 1) FACstamps are stored in a distributed Merkle Tree (blockchain like) database; and 2) FACstamps also are stored in a directed acyclic graph w.r.t. FACstamp references, enabling live FACid and FACstamp provenance status queries.
-
-If you are interested in this project, please reach out by requesting Google Drive access to [FACstamp](https://docs.google.com/document/d/1nNPdISfQJjhSfZWLXOiUre3PbRl7UMlfaa3tgh3ABxo/edit?usp=sharing).
+## Welcome
+The FACstamp project is just getting off ground and is in the initial planning stages.  Volunteers are needed - please consider getting involved and helping out (see [[Volunteering]]).
+## How to read/explore this website and the information within
+One can navigate the information via these webpages or for a more fluid experience one can place this project in an Obsidian vault and directly use the Obsidian application to search, navigate, and potentially [[Volunteering]] to the project.
+## What is FACstamp?
+FACstamp is a project to help support trustable, non duplicitous human communication:
+- Technically, FACstamp is a set of software applications leveraging cryptographic and public ledger technologies providing highly secure digital identity and content management
+- Legally, FACstamp is a set of  software agreements dealing with the creation, publication, and follow-up communication regarding digital multi media and content
+- Usage wise, FACstamp supports an [Expressed Warranty](https://peoples-law.org/warranties#expresswarranties) of Fitness-for-Use that end users or applications can use to inspect Fitness-for-Use compliance of digital content that has been cryptographically stamped and signed with a FACstamp
+See this [What is FACstamp?](https://docs.google.com/presentation/d/1ntCFRPgfZhdFjXoyJKOvZfSz-0Ic0FO2rrKoWm7-wuQ/edit?usp=sharing) Google presentation for a summary 'What is FACstamp?'.
+## Why FACstamp?
+With the accelerating use of  the Internet, the ability to discern accurate information delivered with virtuous intention has become challenging, time consuming, and an increasing insurmountable challenge.   A true democracy, one that is not a democracy in name only, requires the electorate to be accurately informed (accurate information) without associated duplicitous logic, rationalizations, and/or rhetoric (non virtuous manipulation and bamboozlement).  FACstamp is a project aimed at addressing this basic difficulty.  See this [Why FACstamp?](https://docs.google.com/presentation/d/1sz3LdS9dzUrgo_tjs2UQpdySK1FTu_T7J79z5pK4CQk/edit?usp=sharing) Google presentation for a summary of 'Why FACstamp?'
+## What is the FACstamp Expressed Warranty of Fitness of Use?
+A key aspect of FACstamp is that when digital content is stamped with a FACstamp, consumers of that content have access to an Expressed Warranty of Fitness of Use.  FACstamp merchantability is defined by two primary requirements, the first being an historical accuracy clause and the second being a virtuous and duplicity free delivery clause.

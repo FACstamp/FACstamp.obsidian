@@ -7,18 +7,5 @@ TAGS
 # Mac
 .DS_Store
 
-# vscode
-.vscode
-
-# pytest
-__pycache__
-.pytest_cache
-
-# Ignore python local install build symlinks et al
-pyproject.toml
-poetry.lock
-.venv
-
-# Ignore on purpose
-*.backup
-GIT_IGNORE.*
+# Obsidian
+.obsidian
