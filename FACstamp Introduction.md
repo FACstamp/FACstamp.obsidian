@@ -13,14 +13,14 @@ Note that the FACstamp network also automatically provides live provenance resol
 
 ## What problems is FACstamp solving?  What are its project goals?
 
-[[Problems, Solutions, and What If's]] summarizes the problems that FACstamp is attempting to address.  Three primary goals of FACstamp are:
+[[Problems and Solutions]] summarizes the problems that FACstamp is attempting to address.  Three primary goals of FACstamp are:
 - To foster historical accuracy where such accuracy can be reasonably determined  
 - To increase the wisdom, virtue, and discernment of the communities served both on an individual and collective basis  
 - To foster real human community both real and online  particularly via news and information portals and the provenance thereof
 
 ## See Also
 [[FACstamp Introduction]]
-[[FACstamp Summary]]
-[[Problems, Solutions, and What If's]]
-[[Budget and Roadmap]]
+[[FACstamp Deeper Dive]]
+[[Problems and Solutions]]
+[[Budget Roadmap & Timeline]]
 [[Volunteering]]

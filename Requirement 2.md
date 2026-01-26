@@ -19,8 +19,8 @@ It is also important to note that both requirements are an integral and integrat
 
 ### See Also
 [[Requirement 1]]
-[[FACstamp Summary]]
+[[FACstamp Deeper Dive]]
 [[FACstamp Introduction]]
 [[FACstamp Pitch]]
-[[FACStamps and FACIDs]]
+[[FACIDs]]
 [[README]]
