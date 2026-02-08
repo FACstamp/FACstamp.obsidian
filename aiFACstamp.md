@@ -1,3 +1,3 @@
 An aiFACstamp is an extension of the FACstamp concept to include AI, non-human, generated digital content.  A Board of Directors or an individual owner can use their FACTID and FACstamp license agreements to sign an additional aiFACstamp license agreement attached to a specific AI chatbot and/or specific chatbot generated content.
 
-An aiFACstamp allows AI generated content to also a [[Express Warranty of Fitness-For-Use|Firness-for-Use]] expressed warranty with adjusted limits of liability and coverage to offer a degree of liability protection of the FACTID and FACstamp owner from AI generated content.
+An aiFACstamp allows AI generated content to also offer a [[Express Warranty of Fitness-For-Use|Firness-for-Use]] expressed warranty with adjusted limits of liability and coverage, providing a degree of liability protection of the FACTID and FACstamp owner(s) from AI generated content.

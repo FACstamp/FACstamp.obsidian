@@ -4,7 +4,7 @@ With the exception of the [[README]] landing page, there is no single path throu
 - Legal terms, concepts, and procedures
 - Human usability, interaction, and communication 
 - Social and mainstream media digital content production and consumption 
-As visitors to this site can have greatly different backgrounds and areas of interest, this site employs the [Obsidian application](https://obsidian.md/) and [publish service](https://obsidian.md/publish) to maintain the website you are reading.  This allows a much freer and fluid capability for the website visitor to find the information of interest and to easily navigate to additional and related documentation.
+As visitors to this site can have greatly different backgrounds and areas of interest, this site employs the [Obsidian application](https://obsidian.md/) to maintain the website you are reading.  This allows a much freer and fluid capability for website visitors with different backgrounds to find the information of interest and to easily navigate to additional and related documentation. 
 
 However, if you are just curious in general regarding the FACstamp project, a suggested initial navigation through this website is:
 
