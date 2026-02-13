@@ -1,5 +1,3 @@
-A primary goal of FACstamp is to positively affect 1-10 million voters within one year of general availability of a minimal viable product (MVP).  By increasing the collective consciousness of the voting electorate, a democracy is stabilized against misinformation, civic decay, and the loss of virtue particularly within the government.
-
 The first step is to keep the two project websites up, https://facstamp.org and this one, https://publish.obsidian.md/facstamp, which run $10/month with an approximate $25 cert fee each November.  Please consider buying me coffee which will be used to keep the servers running:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/windoverwater)

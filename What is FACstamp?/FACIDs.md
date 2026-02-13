@@ -39,7 +39,7 @@ FACstamps would offer readers verifiable or vetted content presented in a fair a
 
 Only human beings can obtain a FACID and hence create a FACstamp; bots. software and AI programs, businesses, corporations, and governments cannot obtain either.  Thus, these tools offer the possibility of enabling communities to screen for valid information sources.
 
-See [[Problems and Solutions]] for a list of direct and indirect problems that FACstamp addresses.
+See [[Internet Problems and FACstamp Solutions]] for a list of direct and indirect problems that FACstamp addresses.
 
 ## See Also
 [[README]]

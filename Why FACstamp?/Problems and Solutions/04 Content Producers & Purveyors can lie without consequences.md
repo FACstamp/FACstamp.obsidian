@@ -1,0 +1,3 @@
+There are no consequences for Content Producers/Purveyors (and political leaders, corporations, government, etc) when their Content contains lies, misinformation, and vicious and unvirtuous demagoguery.
+
+FACstamp supports a safe, shepherded, and IA enhanced fitness-for-use warranty claim process by which any individual or group of individuals can make a claim against the Content producer/purveyor.  If the claim is upheld by the arbitration process defined in the producer and consumer FACstamp license agreements, the producer/purveyor is liable for the claimed damages by the Content consumer. 

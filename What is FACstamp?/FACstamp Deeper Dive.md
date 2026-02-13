@@ -21,7 +21,7 @@ Note - the FACstamp is different then the [C2PA stamp](https://c2pa.org) - the C
 2) [[Requirement 2]] - the How Requirement
 
 ## 2) What Problems is FACstamp Addressing?
-[[Problems and Solutions]] contains a summary of problems that FACstamp is addressing along with additional downstream opportunities.
+[[Internet Problems and FACstamp Solutions]] contains a summary of problems that FACstamp is addressing along with additional downstream opportunities.
 
 ## 3) Costs / Investments
 

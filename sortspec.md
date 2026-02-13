@@ -2,12 +2,14 @@
 sorting-spec: |-
   README
   Website ...
-  ... Pitch
-  ... Introduction
-  ... Deeper Dive
-  < a-z
+  What ...
+  Why ...
+  Workflows
+  Legal ...
+  Business ...
+  Volunteering
+  Terminology
   %
-  ChangeLog
   editlog
   sortspec
 ---
