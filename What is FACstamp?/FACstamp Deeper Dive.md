@@ -52,7 +52,7 @@ What is a strong trademark? [https://www.uspto.gov/trademarks/basics/strong-trad
 What is an express warranty? [https://www.findlaw.com/consumer/consumer-transactions/what-are-express-and-implied-warranties.html](https://www.findlaw.com/consumer/consumer-transactions/what-are-express-and-implied-warranties.html) [https://www.law.cornell.edu/wex/express\_warranty](https://www.law.cornell.edu/wex/express_warranty) 
 
 ## See Also
-[[README]]
+[[Welcome]]
 [[FACstamp Pitch]]
 [[FACstamp Introduction]]
 [[FACIDs]]

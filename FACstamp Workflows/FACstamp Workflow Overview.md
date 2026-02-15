@@ -119,7 +119,7 @@ An orthogonal option is if the Licensee believes that the Consumer is making a f
 When a fit-for-use warranty claim or counterclaim has reached the litigation phase, licensed attorneys and arbitration personnel become involved.
 
 ## See Also
-[[README]]
+[[Welcome]]
 [[FACstamp Pitch]]
 [[FACstamp Introduction]]
 [[FACID Summary]]

@@ -18,7 +18,7 @@ In addition, FACstamp F or T categorization can only be applied to Content that 
 It is also important to note that both requirements are an integral and integrated part of the Warranty Claim Process.  When a Content Consumer files a fitness-for-use warranty claim against a Content Producer/Purveyor, the FACstamp arbitration process is grounded in both requirements: the Consumer and the Producer via their respective license agreements have agreed to act in a virtuous manner while jointly pursuing the historical accuracy of the questioned Content.
 
 ### See Also
-[[README]]
+[[Welcome]]
 [[Requirement 2]]
 [[FACstamp Deeper Dive]]
 [[FACstamp Introduction]]

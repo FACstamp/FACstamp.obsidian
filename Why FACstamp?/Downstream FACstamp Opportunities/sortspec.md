@@ -1,0 +1,6 @@
+---
+sorting-spec: |-
+    Additional ...
+    %
+    sortspec
+---

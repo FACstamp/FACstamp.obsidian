@@ -1,3 +1,6 @@
 #UnderConstruction
+
+
 #### Notes
-1) As Obsidian wants to manage its own files and directories, on MacOS Obsidian places them in "/Users/<user>/Library/Mobile Documents/iCloud~md~obsidian/Documents/<vault.>/".  With iCloud native syncing, placing the .git directory in this tree may cause issues.  As such, one work around is to place the .git directory outside the Obsidian managed tree (either in or outside of iCloud) via the git clone "--separate-git-dir" switch.
+1) The GitHub/Git landing page is [README.md](README) while the end-user (Obsidian based) landing page is [Welcome.md](Welcome.md).
+2) As Obsidian wants to manage its own files and directories, on MacOS Obsidian places them in "/Users/<user>/Library/Mobile Documents/iCloud~md~obsidian/Documents/<vault.>/".  With iCloud native syncing, placing the .git directory in this tree may cause issues.  As such, one work around is to place the .git directory outside the Obsidian managed tree (either in or outside of iCloud) via the git clone "--separate-git-dir" switch.

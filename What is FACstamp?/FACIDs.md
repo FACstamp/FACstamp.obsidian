@@ -42,6 +42,6 @@ Only human beings can obtain a FACID and hence create a FACstamp; bots. software
 See [[Internet Problems and FACstamp Solutions]] for a list of direct and indirect problems that FACstamp addresses.
 
 ## See Also
-[[README]]
+[[Welcome]]
 [[FACstamp Deeper Dive]]
 [[FACstamp Introduction]]

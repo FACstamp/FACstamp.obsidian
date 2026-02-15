@@ -1,14 +1,15 @@
 ---
 sorting-spec: |-
-  README
+  Welcome
   Website ...
   What ...
   Why ...
-  Workflows
+  ... Workflows
   Legal ...
   Business ...
   Volunteering
   Terminology
+  Attachments
   %
   editlog
   sortspec

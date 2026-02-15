@@ -1,5 +1,5 @@
 ### There is no single path to navigate through this website
-With the exception of the [[README]] landing page, there is no single path through this website.  FACstamp spans four major and separate domains:
+With the exception of the [[Welcome]] landing page, there is no single path through this website.  FACstamp spans four major and separate domains:
 - Cryptographic and general software technology
 - Legal terms, concepts, and procedures
 - Human usability, interaction, and communication 

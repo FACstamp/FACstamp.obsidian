@@ -16,7 +16,7 @@ In Peace and Discernment
 \-sandy
 
 ### See Also
-[[README]]
+[[Welcome]]
 [[Budget Roadmap & Timeline]]
 [Why FACstamp?](https://docs.google.com/presentation/u/0/d/1sz3LdS9dzUrgo_tjs2UQpdySK1FTu_T7J79z5pK4CQk/edit)  
 [What is FACstamp?](https://docs.google.com/presentation/u/0/d/1ntCFRPgfZhdFjXoyJKOvZfSz-0Ic0FO2rrKoWm7-wuQ/edit)
