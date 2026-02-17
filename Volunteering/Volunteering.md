@@ -6,9 +6,9 @@ The FACstamp project is aimed at addressing this fundamental issue as it occurs 
 
 The current FACstamp project priority is to convene a small working group, a design charrette, of perhaps 4-6 people to work out the high level workflows surrounding the actual warranty claim process.  Please consider volunteering for this design charrette or engaging in this work in some other manner.  See [[Budget Roadmap & Timeline]]
 
-To volunteer or become involved, please reach out via some trust-able platform, for example [linkedin](https://linkedin.com) or [GitHub](https://github.com), or ideally in person. 
+To volunteer or become involved, please reach out via some trust-able platform, for example [linkedin](https://linkedin.com) or [GitHub](https://github.com) or in person :-)
 
-For collaboration and development, this source for this website and all FACstamp software, which is all open source, can be found at the GitHub [FACstamp project](https://github.com/FACstamp) page.  GitHub can be used to start [discussions](https://docs.github.com/en/discussions) and submit [issues](https://docs.github.com/en/issues) and [pull requests](https://docs.github.com/en/pull-requests), etc.
+For collaboration and development, the source for this website is essentially an Obsidian vault - see [Using Obsidian](Volunteering/Using Obsidian.md).  The website source and all FACstamp software in general, which is all open source, can be found at the GitHub [FACstamp project](https://github.com/FACstamp) page.  See [Using Git & GitHub](Volunteering/Using Git & GitHub.md). 
 
 Thank you.
 
@@ -16,7 +16,7 @@ In Peace and Discernment
 \-sandy
 
 ### See Also
-[[Welcome]]
-[[Budget Roadmap & Timeline]]
-[Why FACstamp?](https://docs.google.com/presentation/u/0/d/1sz3LdS9dzUrgo_tjs2UQpdySK1FTu_T7J79z5pK4CQk/edit)  
-[What is FACstamp?](https://docs.google.com/presentation/u/0/d/1ntCFRPgfZhdFjXoyJKOvZfSz-0Ic0FO2rrKoWm7-wuQ/edit)
+[[Welcome]] 
+[What is FACstamp?](https://docs.google.com/presentation/u/0/d/1ntCFRPgfZhdFjXoyJKOvZfSz-0Ic0FO2rrKoWm7-wuQ/edit) 
+[Why FACstamp?](https://docs.google.com/presentation/u/0/d/1sz3LdS9dzUrgo_tjs2UQpdySK1FTu_T7J79z5pK4CQk/edit) 
+[[Budget Roadmap & Timeline]] 

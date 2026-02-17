@@ -1,4 +1,4 @@
-<span class="center" style="color: #FF0000;">🚧 &nbsp 🚧 &nbsp 🚧<br>Note - this website is under construction and lags the current status of the project<br>🚧 &nbsp 🚧 &nbsp 🚧</span>
+<span class="center" style="color: #FF0000;">🚧 &nbsp Note - this website is under construction and lags the current status of the project &nbsp 🚧 </span>
 ### Welcome
 The FACstamp project is just getting off ground and is in the initial planning stages.  Volunteers are needed - please consider [[Volunteering]], perhaps becoming a board member participating in future design charrettes, or helping with some aspect of the project such as creating documentation or writing code.  Financial contributions are deeply appreciated via [Buy Me Coffee](https://www.buymeacoffee.com/windoverwater) to cover current [[Budget Roadmap & Timeline|expenses]].  A future GoFundMe campaign is in the works.
 
@@ -6,13 +6,13 @@ See [[Website Navigation]] for assistance with website organization and navigati
 ### What is FACstamp?
 FACstamp is a project to help support trustable, non duplicitous human communication via digital content:
 
-- **Technically, FACstamp is a set of software applications leveraging cryptographic and public ledger technologies providing highly secure digital identity, privacy, and content management**
+- Technically, FACstamp is a set of software applications leveraging cryptographic and public ledger technologies providing highly secure digital identity, privacy, and content management
 
-- **Legally, FACstamp is a set of  software agreements dealing with the creation, publication, and follow-up communication and verification regarding digital multi media and content**
+- Legally, FACstamp is a set of  software agreements dealing with the creation, publication, and follow-up communication and verification regarding digital multi media and content
 
-- **Usage wise, FACstamp supports an [Expressed Warranty](https://peoples-law.org/warranties#expresswarranties) of Fitness-for-Use that end users or applications can use to inspect Fitness-for-Use compliance of digital content that has been cryptographically stamped and signed with a FACstamp**
+- Usage wise, FACstamp supports an [Expressed Warranty](https://peoples-law.org/warranties#expresswarranties) of Fitness-for-Use that end users or applications can use to inspect Fitness-for-Use compliance of digital content that has been cryptographically stamped and signed with a FACstamp
 
-- **There are significant potential [[Market Analysis|new markets]] that FACstamp adoption will create as it solves an impressive list of [[Internet Problems and FACstamp Solutions|fundamental issues]] currently plaguing how digital content is produced and consumed on the Internet**
+- There are significant potential [[Market Analysis|new markets]] that FACstamp adoption will create as it solves an impressive list of [[Internet Problems and FACstamp Solutions|fundamental issues]] currently plaguing how digital content is produced and consumed on the Internet
 
 For more information and details on what FACstamp is, see:
 [[What is FACstamp?|A 'What is FACstamp?' slide presentation]]

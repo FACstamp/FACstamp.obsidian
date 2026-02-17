@@ -3,32 +3,11 @@
     text-align: center;
     display: block;
 }
-
-/* Color all hyperlinks blue */
-a {
-  color: #0000EE; /* A standard blue color for unvisited links */
-}
-
-/* Color visited hyperlinks a different shade if desired */
-a:visited {
-  color: #551A8B; /* A standard purple color for visited links */
-}
-
-/* Color links when a user hovers over them */
-a:hover {
-  color: #0000FF; /* A brighter blue on hover */
-}
-
-/* Color links when they are actively being clicked */
-a:active {
-  color: #000080; /* A darker blue when active */
-}
-
-/* For specific internal and external links in reading view */
-.markdown-rendered .internal-link {
-    color: #0000EE;
-}
-
-.markdown-rendered a.external-link {
-    color: #0000EE;
+/* right justify images */
+img[alt*="right"] {
+    float: right;
+    clear: right;
+    margin-left: 1rem; /* Adds some space between image and text */
+    margin-bottom: 2px;
+    margin-top: 2px;
 }

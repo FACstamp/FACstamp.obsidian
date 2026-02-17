@@ -4,8 +4,22 @@
 
 - Record the content in [[tamper-proof public ledger]]
 - Provide an [[Express Warranty of Fitness-For-Use]] that the content is fit for decision making & discernment vis-a-vis:
-	- Provenance of authorship ([[Requirement 0]])
-	- Historically accurate content ([[Requirement 1]])
-	- Ethical (virtuous) intentions and delivery ([[Requirement 2]])
+  - Provenance of authorship ([[Requirement 0]])
+  - Historically accurate content ([[Requirement 1]])
+  - Ethical (virtuous) intentions and delivery ([[Requirement 2]])
 - Provide up-to-date (live) requirement 0, 1, & 2 verification
 
+Here is an example FACstamp (reused as is in this presentation):
+
+![[FACstamp-green-3-5.png | 300 ]]
+
+This stamp indicates:
+- Requirement 0 has been verified
+- Requirement 1 has been verified
+- Requirement 2 has been verified
+- There is one active warranty claim
+- There have been 3 successfully defended warranty claims
+- 'DAG' stands for Directed Acyclic Graph:
+  - there are 3 upstream FACstamp references
+  - there are 5 downstream FACstamp references
+- The long number a numerical representation of the unique FACstamp signature

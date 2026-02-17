@@ -1,3 +1,4 @@
+ [[01 Discernment of historical truth and accuracy|Previous]]  |  [[03 The inspection of the current state of Fitness-For-Use of digital content|Next]] 
 There is no easy way for content consumers to determine the intent of the content producer/purveyor as to whether it is virtuous or not, and if any demagoguery is contained in the content whether the demagoguery is of good and virtuous or of evil and vicious intent.
 
 FACstamp also addresses this problem with the same solution as above since the color coded FIT and K/S rating include both fit-for-use requirements [one](https://docs.google.com/document/u/0/d/1Y19Q_lXc3HiICJrnWFcV4ryuoSX_Xed1yCuLQEqSmU8/edit) and [two](https://docs.google.com/document/u/0/d/1o73JdA-ISa4UKf237Z1UJCxXmPpC7zTAhT2jdp-I9lY/edit).

@@ -1,1 +1,2 @@
+ [[08 Nuancing the difference between good and bad science is challenging|Previous]]  |  [[10 Basic stoic virtue, wisdom-consciousness, of the consumer is not prioritized|Next]] 
 Similar to nuancing the difference between good and bad science above (1.8), FACstamp helps Consumer, Producers, and Purveyors nuance the difference between good and [fallacious logic](https://en.wikipedia.org/wiki/Fallacy).  Though logic is usually absent in demagogic rhetoric, virtuous demagogic rhetoric can be aligned with FACstamped Content the directly supports it.  

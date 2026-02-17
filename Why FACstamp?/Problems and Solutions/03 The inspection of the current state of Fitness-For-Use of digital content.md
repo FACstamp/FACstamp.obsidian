@@ -1,3 +1,4 @@
+ [[02 Discernment of the virtue of the intent and demagogic aspects of Content|Previous]]  |  [[04 Content Producers & Purveyors can lie without consequences|Next]] 
 There is no easy way for a consumer to question the validity of online content and potentially correct the historical accuracy or the flavor and alignment of the demagoguery in terms of both intent and impact contained within.
 
 For those willing and capable of signing a FACstamp End User License Agreement, FACstamp offers a shepherded, guided, and AI enhanced fitness-for-use warranty claim process by which any individual or group of consumers can file a warranty claim against the content producer/purveyor.  FACstamp is public ledger based so all claims, counter claims, content, and changed content is all tracked in a fully public ledger.  Both licensed and unlicensed users can also track the progress of any claim.
