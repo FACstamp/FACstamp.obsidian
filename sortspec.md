@@ -7,8 +7,9 @@ sorting-spec: |-
   ... Workflows
   Legal ...
   Business ...
+  Technology ...
   Volunteering
-  Terminology
+  Glossary
   Attachments
   %
   editlog

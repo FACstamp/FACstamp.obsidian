@@ -1,4 +1,8 @@
- [[05 X Example|Previous]]  | [[07 Substack Example|Next]]
+ [[05 X Example|Previous]]  |  [[07 Substack Example - Letters from an American|Next]] 
+> [!FACSTAMP]
+> ## A Facebook Example
+> ![[News4 WIVB.png]]
+> ![[FACstamp-green-3-5.png | right | 100 ]]
   
 This is a Facebook post which could be stamped.
 
