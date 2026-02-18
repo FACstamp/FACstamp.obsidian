@@ -1,2 +1,2 @@
- [[02 Problem 1|Previous]]  |  [[04 What is discerment?|Next]] 
+ [[02 Problem 1|Previous]]  |  [[04 What is discernment?|Next]] 
 Consciousness - the ability to become aware of one’s own emotions and ‘thought processes’, improving self regulation and awareness/wisdom.  Greater consciousness is  associated with an identity shift from ‘egoic self’, via ‘self transcendence’, to the primacy of the common good and our shared common humanity.
