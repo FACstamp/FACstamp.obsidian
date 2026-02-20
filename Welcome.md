@@ -1,4 +1,4 @@
-<span class="center" style="color: #FF0000;">🚧 &nbsp Note - this website is under construction and lags the current status of the project &nbsp 🚧 </span>
+<span class="center" style="color: #FF0000;">🚧 &nbsp under construction &nbsp 🚧 </span>
 ### Welcome
 The FACstamp project is just getting off ground and is in the initial planning stages.  Volunteers are needed - please consider [[Volunteering]], perhaps becoming a board member participating in future design charrettes, or helping with some aspect of the project such as creating documentation or writing code.  Financial contributions are deeply appreciated via [Buy Me Coffee](https://www.buymeacoffee.com/windoverwater) to cover current [[Budget Roadmap & Timeline|expenses]].  A future GoFundMe campaign is in the works.
 

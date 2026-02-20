@@ -9,3 +9,6 @@ TAGS
 
 # Obsidian
 .obsidian
+
+# ignore outright
+.ignore

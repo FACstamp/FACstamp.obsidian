@@ -1,0 +1,3 @@
+The attempt to 'practice' science, a.k.a. as the application of the scientific method, can either be successful, a.k.a, good science, or unsuccessful, a.k.a. bad science.  This does not pertain to the actual results of the scientific experiment - it just pertains to the procedures/process that was followed regarding the experiment/test and if it was truly free of biases, faulty logic, and faulty observations.
+
+TBD

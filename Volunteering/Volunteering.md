@@ -8,7 +8,7 @@ The current FACstamp project priority is to convene a small working group, a des
 
 To volunteer or become involved, please reach out via some trust-able platform, for example [linkedin](https://linkedin.com) or [GitHub](https://github.com) or in person :-)
 
-For collaboration and development, the source for this website is essentially an Obsidian vault - see [Using Obsidian](Volunteering/Using Obsidian.md).  The website source and all FACstamp software in general, which is all open source, can be found at the GitHub [FACstamp project](https://github.com/FACstamp) page.  See [Using Git & GitHub](Volunteering/Using Git & GitHub.md). 
+For collaboration and development see [[Collaboration and Development]].
 
 Thank you.
 
