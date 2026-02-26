@@ -1,4 +1,4 @@
- [[05 Problem 2|Previous]]  |  [[07 Goal 2|Next]] 
+ [[05 Problem 2|Previous Slide]]  |  [[07 Goal 2|Next Slide]] 
 To help everyone, but in particular 1-10M swing-able voters, increasing both individual and collective consciousness and discernment.
 
 This goal aligns with all mature religions and philosophical traditions. The FACstamp and FACID license agreements, documentation, and portals are tuned to maximally meet people where they are in their framework of choice.

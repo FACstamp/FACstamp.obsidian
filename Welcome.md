@@ -15,7 +15,7 @@ FACstamp is a project to help support trustable, non duplicitous human communica
 - There are significant potential [[Market Analysis|new markets]] that FACstamp adoption will create as it solves an impressive list of [[Internet Problems and FACstamp Solutions|fundamental issues]] currently plaguing how digital content is produced and consumed on the Internet
 
 For more information and details on what FACstamp is, see:
-[[What is FACstamp?|A 'What is FACstamp?' slide presentation]]
+[[What is FACstamp? - a slide presentation|A 'What is FACstamp?' slide presentation]]
 [[FACstamp Pitch]]
 [[FACstamp Introduction]]
 [[FACstamp Deeper Dive]]
@@ -26,7 +26,7 @@ With the accelerating use of the Internet, the ability to discern accurate infor
 A primary goal of FACstamp is to positively affect 1-10 million voters within one year of general availability of a minimal viable product (MVP).  By increasing the collective consciousness of the voting electorate, a democracy is stabilized against misinformation, civic decay, and the loss of virtue particularly within the government.
 
 For more information and details on why a project like FACstamp is important, particularly now, see:
-[[Why FACstamp?|Why FACstamp?]]
+[[Why FACstamp? - a slide presentation|Why FACstamp? - a slide presentation]]
 [[Internet Problems and FACstamp Solutions]]
 
 Note that FACstamp creates [[Market Analysis|new markets]] - see [[Budget Roadmap & Timeline]].

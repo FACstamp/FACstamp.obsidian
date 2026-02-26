@@ -1,1 +1,1 @@
-TBD
+Similar to good and bad science, hierarchical power structures are inherently neither good and bad.  But when the community, corporation, or government losses the context of and alignment with love centeredness, 

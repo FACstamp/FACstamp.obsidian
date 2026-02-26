@@ -1,4 +1,4 @@
- [[02 Digital Signatures|Next]] 
+ [[02 Digital Signatures|Next Slide]] 
 ## FACstamp is:
 - Open source software and cryptographic technology
 - An integrated set of license and warranty agreements

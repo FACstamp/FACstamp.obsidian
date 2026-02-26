@@ -1,4 +1,4 @@
- [[06 Goal 1|Previous]]  |  [[08 FACstamp Technology Summary|Next]] 
+ [[06 Goal 1|Previous Slide]]  |  [[08 FACstamp Technology Summary|Next Slide]] 
 Create a safe and an effective, guardrailed, distributed process for resolving observations of historical events to the extent possible within the context of Goal 1.
 
 FACstamp is not so much about ascertaining truth as it is about resolving differences in observations of historical events where a resolution is reasonable and possible.  The latter is different then the former, with the latter being contained in a distributed public ledger that assures accurate history and distribution.

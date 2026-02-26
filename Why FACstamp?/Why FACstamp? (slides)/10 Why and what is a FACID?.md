@@ -1,4 +1,4 @@
- [[09 FACstamp Legal Summary|Previous]]  |  [[11 Types of Challanges|Next]] 
+ [[09 FACstamp Legal Summary|Previous Slide]]  |  [[11 Types of Challanges|Next Slide]] 
 FACID:
 - Provides a warranty of ‘human-ness’ & uniqueness
 - No corporations, bots, AI programs, governments, …

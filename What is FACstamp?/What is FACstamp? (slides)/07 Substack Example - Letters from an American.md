@@ -1,4 +1,4 @@
- [[06 Facebook Example|Previous]]  |  [[08 Government Example|Next]] 
+ [[06 Facebook Example|Previous Slide]]  |  [[08 Government Website Post Example|Next Slide]] 
  
 [Heather Cox Richardson February 1, 2026](https://heathercoxrichardson.substack.com/p/february-1-2026)
 

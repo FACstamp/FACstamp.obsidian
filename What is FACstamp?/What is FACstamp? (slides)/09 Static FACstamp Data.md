@@ -1,4 +1,4 @@
- [[08 Government Example|Previous]]  |  [[10 Dynamic FACstamp Data|Next]] 
+ [[08 Government Website Post Example|Previous Slide]]  |  [[10 Dynamic FACstamp Data|Next Slide]] 
 Clicking on the FACstamp itself, or a QRcode for it, or supplying the long digest to the facstamp website directly, will take the user via a web browser or a FACstamp app to the FACstamp data page for that specific FACstamp.  So for the following FACstamp:
 
 

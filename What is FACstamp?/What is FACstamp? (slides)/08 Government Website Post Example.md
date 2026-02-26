@@ -1,4 +1,4 @@
- [[07 Substack Example - Letters from an American|Previous]]  |  [[09 Static FACstamp Data|Next]] 
+ [[07 Substack Example - Letters from an American|Previous Slide]]  |  [[09 Static FACstamp Data|Next Slide]] 
 [A Federal Govenment Example](https://www.whitehouse.gov/research/2026/02/estimating-the-cost-of-the-consumer-financial-protection-bureau-to-consumers/)
 > [!FACSTAMP]
 > ## A Whitehouse Media Publication Example

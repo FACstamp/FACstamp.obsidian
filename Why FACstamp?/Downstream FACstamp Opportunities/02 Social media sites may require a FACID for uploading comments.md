@@ -1,1 +1,3 @@
 Independently from FACstamp usage, social media Producers/Purveyors may require reviewers and commenters to obtain a FACID to upload content.  By requiring FACTIDs such sites achieve a high degree of assurance that the commenter is a human.  Note that though FACIDs can be stolen similar to cryptocurrency keys, unlike crypto keys the nature of FACTIDs and their continuous FACID 2FA process that minimizes stolen keys remaining stolen.
+
+Next - [[03 Social media subscribers might require FACstamps for news and information]] 

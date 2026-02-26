@@ -1,4 +1,4 @@
- [[04 New York Times Example|Previous]]  |  [[06 Facebook Example|Next]] 
+ [[04 New York Times Example|Previous Slide]]  |  [[06 Facebook Example|Next Slide]] 
 > [!FACSTAMP]
 > ## An x Example
 > ![[bbc X post.png]]

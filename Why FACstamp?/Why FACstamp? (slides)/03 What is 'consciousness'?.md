@@ -1,4 +1,4 @@
- [[02 Problem 1|Previous]]  |  [[04 What is discernment?|Next]] 
+ [[02 Problem 1|Previous Slide]]  |  [[04 What is discernment?|Next Slide]] 
 Consciousness is a challenging word and concept to pin down to a specific definition or *understanding*.  The word itself and the implied meaning can be understood differently by every sentient being.  As such the FACstamp project only employs a lightweight and incomplete, nonsecular definition:
 
 - Consciousness is the state of being aware of and responsive to one's surroundings, as well as one's own internal thoughts, feelings, and sensations.   It represents the first-person, subjective experience of existence—or "what it is like" to be a specific person—ranging from wakefulness to deep sleep.

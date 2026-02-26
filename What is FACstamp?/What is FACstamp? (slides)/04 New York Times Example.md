@@ -1,4 +1,4 @@
- [[03 FOX News Example|Previous]]  |  [[05 X Example|Next]] 
+ [[03 FOX News Example|Previous Slide]]  |  [[05 X Example|Next Slide]] 
 > [!FACSTAMP]
 > ## A New York York Times Example
 > 

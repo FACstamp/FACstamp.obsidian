@@ -1,4 +1,4 @@
- [[05 X Example|Previous]]  |  [[07 Substack Example - Letters from an American|Next]] 
+ [[05 X Example|Previous Slide]]  |  [[07 Substack Example - Letters from an American|Next Slide]] 
 > [!FACSTAMP]
 > ## A Facebook Example
 > ![[News4 WIVB.png]]

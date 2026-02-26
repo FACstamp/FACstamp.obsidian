@@ -1,1 +1,3 @@
 As FACstamps do not differentiate between the private and public sector, FACstamps can be leveraged in the political sector as well.  Political candidates may start using FACstamps to attract voters.  In addition, to the extent legally possible elected officials may be required to create FACstamped Content particularly as background material to what otherwise could be unbridled and non virtuous demagoguery.
+
+Next - [[09 FACIDs could be leveraged significantly beyond FACstamp usage]] 

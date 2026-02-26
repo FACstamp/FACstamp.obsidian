@@ -1,5 +1,4 @@
- [[What is FACstamp?|Previous]]  |  [[03 FOX News Example|Next]] 
-
+ [[What is FACstamp? - a slide presentation|Previous Slide]]  |  [[03 FOX News Example|Next Slide]]
 ## FACstamps are [digital signatures](https://en.wikipedia.org/wiki/Digital_signature) placed on digital content that:
 
 - Record the content in [[tamper-proof public ledger]]

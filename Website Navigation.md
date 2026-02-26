@@ -4,6 +4,7 @@ With the exception of the [[Welcome]] landing page, there is no single path thro
 - Legal terms, concepts, and procedures
 - Human usability, interaction, and communication 
 - Social and mainstream media digital content production and consumption 
+
 As visitors to this site can have greatly different backgrounds and areas of interest, this site employs the [[Using Obsidian|Obsidian]] to maintain the website you are reading.  This supports a freer and more fluid ability for website visitors with different backgrounds to find the information of interest and in a form that makes sense to them.  The FACstamp project supports all paths that lead towards kindness and love centered living, and does so inclusive of self and community safety and respect of country borders.
 ### How to contribute content and/or changes
 The FACstamp documentation (this website) is hosted via an Obsidian server with both documentation and code developed using GitHub.  See [[Using Obsidian]] and [[Using Git & GitHub]] if interested.

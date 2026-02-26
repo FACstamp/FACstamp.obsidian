@@ -1,7 +1,7 @@
- [[09 Static FACstamp Data|Previous]]  |  [[What is FACstamp?|Back to Beginning]] 
+ [[09 Static FACstamp Data|Previous Slide]]  |  [[What is FACstamp? - a slide presentation|Back to Beginning]] 
 Consider the following FACstamp:
 ![[FACstamp-green-3-5.png|200]]
-It contains seven different pieces of live data.
+It contains multiple pieces of live data.
 
 Running vertically on the left hand side is the overall compliance of the three FACstamp license requirements: [[Requirement 0]], [[Requirement 1]], and [[Requirement 2]].
 

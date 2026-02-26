@@ -2,10 +2,10 @@
 
 Note - [[FACstamp Introduction]] provides a summary of this content
 ## 1) Summary
-The two FACstamps (a.k.a. “Fostering Accuracy, Authenticity, and Community in Communications and Content - FAC -project") is to
-1) foster the authenticity, accuracy, and trustworthiness in news and information
-2) foster a community of common humanity, care, safety, and trust
-Said somewhat differently, FACstamp fosters greater individual and collective consciousness - greater wisdom of heart and mind - via an interactive and responsible conveyance of news and information.  The project centers around the creation of a registered trademark with an associated licensable digital stamp.  One or more patents on the technology necessary to implement the stamp may be possible.
+The two top goals of FACstamps (a.k.a. “Fostering Accuracy, Authenticity, and Community in Communications and Content - FAC -project") is to
+1) foster authenticity, accuracy, and trustworthiness in news and information
+2) foster communities based on our shared and common humanity, care, safety, and trust
+Said somewhat differently, FACstamp fosters greater individual and collective consciousness - greater wisdom and kindness of heart and mind - via an interactive and responsible conveyance of news and information.  The project centers around the creation of a registered trademark with an associated licensable digital stamp.
 
 The underlying trademark, stamp, license agreement, and patents are owned by a 501(c)(3) entity, the Licensor.  People who sign the FACstamp license agreement, Licensees, agree to abide by the terms of the FACstamp license when creating/applying a FACstamp to content.  Licensees who create or deliver news and information (Content) can **optionally** create a digital FACstamp associated with the specific Content.  The stamp contains a signed/secured reference (a.k.a. a digest) of the specific Content, the identity of the Licensor and Licensee, etc.  When a Licensee creates a stamp for specific Content, the stamp contains a QR code pointing to a unique internet location managed by the Licensor.
 

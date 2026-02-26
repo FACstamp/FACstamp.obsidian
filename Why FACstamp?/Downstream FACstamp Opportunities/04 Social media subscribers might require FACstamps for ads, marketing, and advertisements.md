@@ -1,1 +1,3 @@
 This is the second tipping point of FACstamp [network effects](https://en.wikipedia.org/wiki/Network_effect), when either consumers configure (prioritize or require) ads and marketing material to be FACstamped or when the advertisers initiate FACstamp usage themselves to differentiate their products and services.
+
+Next - [[05 Private and public events, such as rallies, marches, and demonstrations, may ask participants to register their FACIDs]] 

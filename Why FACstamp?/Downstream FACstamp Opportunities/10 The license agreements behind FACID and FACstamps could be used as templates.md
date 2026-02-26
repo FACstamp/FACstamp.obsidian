@@ -1,3 +1,5 @@
 If properly written and organized, the FACID and FACstamp license agreements might be leveraged as a non-partisan vision statement regarding fundamental guardrails concerning news and information and the free and responsible civil discourse and exchange thereof.
 
 Note that FACstamp and FACID would both be trademarked and heavily defended from infringement, limiting the potential look-alike fakes and hacks.
+
+[[Additional Downstream FACstamp Opportunities|Back to the Index]] 

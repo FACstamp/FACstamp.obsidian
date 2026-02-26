@@ -1,4 +1,4 @@
- [[02 Digital Signatures|Previous]]  |  [[04 New York Times Example|Next]] 
+ [[02 Digital Signatures|Previous Slide]]  |  [[04 New York Times Example|Next Slide]] 
 > [!FACSTAMP]
 > ## A Fox News Example
 > ![[FoxNewsFlash.png]]

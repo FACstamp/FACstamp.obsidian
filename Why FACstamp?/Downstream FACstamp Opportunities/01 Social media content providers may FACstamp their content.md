@@ -1,1 +1,3 @@
 To differentiate their content from other content providers, social media content providers will begin to FACstamp their content.  As FACstamp becomes more well known, the desire to FACstamp becomes greater.  This growth comes from both reader demand (hierarchical bottom-up pressure) as well as from producer/purveyor desires (hierarchical top-down pressure).
+
+Next - [[02 Social media sites may require a FACID for uploading comments]] 
