@@ -1,4 +1,4 @@
-The FACstamp fitness-for-use warranty includes two basic definitions.  The second requirement concerns how the FACstamped content is delivered \- it is the ‘how’ or ‘quality’ requirement, as opposed to [[Requirement 1]] which is an historical accuracy ‘the what’ requirement.
+The FACstamp fitness-for-use warranty includes two basic definitions.  The second requirement concerns how the FACstamped content is delivered \- it is the ‘how’ or ‘quality’ requirement, as opposed to [[Requirement 1 - Historical Accuracy]] which is an historical accuracy ‘the what’ requirement.
 
 The delivery of FACstamped content must be done in a responsible, virtuous manner that excludes such attributes or rhetorical techniques such as othering, context shifting, fallacious logic, and other methods of non-virtuous [demagoguery](https://en.wikipedia.org/wiki/Demagogue).  Non-virtuous demagoguery is the opposite in both intent and impact of [virtuous demagoguery](https://en.wikipedia.org/wiki/Demagogue#Positive_demagoguery).  Demagoguery can be virtuous when aligned with a robust rationale, is love centered and absent of evil, vicious, or unvirtuous intent.  Virtuous demagoguery prioritizes our common humanity and the common good of the world clearly above the individual self or the group collective which is generating/motivating the demagoguery.
 
@@ -18,7 +18,7 @@ The How Requirement is softer in precision than the What Requirement as it invol
 It is also important to note that both requirements are an integral and integrated part of the Warranty Claim Process.  When a Content Consumer files a fitness-for-use warranty claim against a Content Producer/Purveyor, the FACstamp arbitration process is grounded in both requirements: the Consumer and the Producer via their respective license agreements have agreed to act in a virtuous manner while jointly pursuing the historical accuracy of the questioned Content.
 
 ### See Also
-[[Requirement 1]]
+[[Requirement 1 - Historical Accuracy]]
 [[FACstamp Deeper Dive]]
 [[FACstamp Introduction]]
 [[FACstamp Pitch]]

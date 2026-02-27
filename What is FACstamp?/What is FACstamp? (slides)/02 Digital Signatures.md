@@ -3,9 +3,9 @@
 
 - Record the content in [[tamper-proof public ledger]]
 - Provide an [[Express Warranty of Fitness-For-Use]] that the content is fit for decision making & discernment vis-a-vis:
-  - Provenance of authorship ([[Requirement 0]])
-  - Historically accurate content ([[Requirement 1]])
-  - Ethical (virtuous) intentions and delivery ([[Requirement 2]])
+  - Provenance of authorship ([[Requirement 0 - Authenticity]])
+  - Historically accurate content ([[Requirement 1 - Historical Accuracy]])
+  - Ethical (virtuous) intentions and delivery ([[Requirement 2 - Virtuous Delivery]])
 - Provide up-to-date (live) requirement 0, 1, & 2 verification
 
 Here is an example FACstamp (reused as is in this presentation):

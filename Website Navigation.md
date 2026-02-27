@@ -16,8 +16,8 @@ However, if you are just curious in general regarding the FACstamp project, a su
 3) For more high level details, please see [[FACstamp Deeper Dive]]
 4) There is also an additional two page on [[FACIDs]] and how they relate to FACstamps
 5) See [[Internet Problems and FACstamp Solutions]] for a six page summary of 21 mostly fundamental social, civic, and ethical problems and their FACstamp solutions
-6) Details regarding [[Requirement 1]] - historical accuracy, the what requirement
-7) Details regarding [[Requirement 2]] - virtuous delivery, the how requirement
+6) Details regarding [[Requirement 1 - Historical Accuracy]] - historical accuracy, the what requirement
+7) Details regarding [[Requirement 2 - Virtuous Delivery]] - virtuous delivery, the how requirement
 
 See [[Volunteering]] for how to get involved and/or start contributing somehow.
 ### See Also

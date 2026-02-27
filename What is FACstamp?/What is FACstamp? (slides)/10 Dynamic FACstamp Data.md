@@ -3,7 +3,7 @@ Consider the following FACstamp:
 ![[FACstamp-green-3-5.png|200]]
 It contains multiple pieces of live data.
 
-Running vertically on the left hand side is the overall compliance of the three FACstamp license requirements: [[Requirement 0]], [[Requirement 1]], and [[Requirement 2]].
+Running vertically on the left hand side is the overall compliance of the three FACstamp license requirements: [[Requirement 0 - Authenticity]], [[Requirement 1 - Historical Accuracy]], and [[Requirement 2 - Virtuous Delivery]].
 
 Running vertically on the right hand side are the number of the currently active warranty claims against this FACstamp followed by the completed, adjudicated warranty claims.  Green indicates that the warranty claims have been rejected, thus the stamp stands as green - see [[What happens when a warranty claim is approved?]].  If a warranty claim as been found to valid, this entry will no longer be green - see [[What happens when a warranty claim is rejected?]].
 

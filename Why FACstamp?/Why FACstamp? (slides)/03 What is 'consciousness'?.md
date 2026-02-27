@@ -9,7 +9,7 @@ For FACstamp, this shift is the same shift that many [[World Wisdom Traditions]]
 
 - Greater consciousness is the increase in the ability of being aware of and responsive to one's surroundings as well as one's own internal thoughts, feelings, and sensations.  This increase in ability is directly associated with an identity shift from [[Egoic-self]] to the non egoic-self via  transcendence of the egoic-self.   See [[Maslow's Pyramids]].
 
-This shift, even as defined in a limited manner in a nonsecular manner, is a key concept and general guidance of many of the world wisdom traditions.  And it is based on this observation that FACstamp creates a [[Requirement 2]] as a key aspect of the project.
+This shift, even as defined in a limited manner in a nonsecular manner, is a key concept and general guidance of many of the world wisdom traditions.  And it is based on this observation that FACstamp creates a [[Requirement 2 - Virtuous Delivery]] as a key aspect of the project.
 
 ## See Also
 [[What is Consciousness? - More]] 

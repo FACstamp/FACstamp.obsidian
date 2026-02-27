@@ -1,4 +1,4 @@
-The FACstamp fitness-for-use warranty includes two basic definitions.  The first requirement concerns historical accuracy of the FACstamped content, referenced as ‘the what’ requirement, while [[Requirement 2]] concerns how the Content is presented, referenced as ‘the how’ requirement.
+The FACstamp fitness-for-use warranty includes two basic definitions.  The first requirement concerns historical accuracy of the FACstamped content, referenced as ‘the what’ requirement, while [[Requirement 2 - Virtuous Delivery]] concerns how the Content is presented, referenced as ‘the how’ requirement.
 
 The historical accuracy requirement concerns Content, with Content being defined to include news, information, and social media, printed or digital, in both written, audio, and video formats.  FACstamp itself does not define what is historically accurate but only how to determine if some Content is is historically accurate in the context of two opposing views on the determination thereof as presented in a fitness-for-use warranty claim of a Content Consumer against a Content Producer/Purveyor.  It is important to note that a significant amount of content will naturally be indeterminate with respect to the accuracy since the data required to adequately determine accuracy is not available.
 
@@ -19,7 +19,7 @@ It is also important to note that both requirements are an integral and integrat
 
 ### See Also
 [[Welcome]]
-[[Requirement 2]]
+[[Requirement 2 - Virtuous Delivery]]
 [[FACstamp Deeper Dive]]
 [[FACstamp Introduction]]
 [[FACstamp Pitch]]

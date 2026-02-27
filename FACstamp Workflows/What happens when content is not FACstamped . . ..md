@@ -1,4 +1,4 @@
-If content is created that is not FACstamped, anyone with a FACstamp license can reference the content, either via hyperlink or by explicit copy with copyright, attribution, etc, and then FACstamp the new content that claims the referenced content as either compliant or noncompliant regarding FACstamp [[Requirement 0]], [[Requirement 1]], or [[Requirement 2]].
+If content is created that is not FACstamped, anyone with a FACstamp license can reference the content, either via hyperlink or by explicit copy with copyright, attribution, etc, and then FACstamp the new content that claims the referenced content as either compliant or noncompliant regarding FACstamp [[Requirement 0 - Authenticity]], [[Requirement 1 - Historical Accuracy]], or [[Requirement 2 - Virtuous Delivery]].
 
 The FACstamp infrastructure supports the turnkey lookup of such references, allowing un FACstamped content to effectively be inspected by the general electorate as to its provenance, accuracy, and virtuous delivery.
 

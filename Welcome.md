@@ -31,7 +31,7 @@ For more information and details on why a project like FACstamp is important, pa
 
 Note that FACstamp creates [[Market Analysis|new markets]] - see [[Budget Roadmap & Timeline]].
 ### What is the FACstamp Expressed Warranty of Fitness of Use?
-A key aspect of FACstamp concerns the [[Express Warranty of Fitness-For-Use]] that is managed by the various FACstamp license and usage agreements.  When digital content is stamped with a FACstamp, consumers of that content have access to the [[Express Warranty of Fitness-For-Use]].  This FACstamp merchantability is defined by two primary requirements, the [[Requirement 1|first requirement]] is a historical accuracy clause while the [[Requirement 2|second requirement]] is a virtuous and duplicity free delivery clause.  See [[FACstamp Deeper Dive]] for more details.
+A key aspect of FACstamp concerns the [[Express Warranty of Fitness-For-Use]] that is managed by the various FACstamp license and usage agreements.  When digital content is stamped with a FACstamp, consumers of that content have access to the [[Express Warranty of Fitness-For-Use]].  This FACstamp merchantability is defined by two primary requirements, the [[Requirement 1 - Historical Accuracy|first requirement]] is a historical accuracy clause while the [[Requirement 2 - Virtuous Delivery|second requirement]] is a virtuous and duplicity free delivery clause.  See [[FACstamp Deeper Dive]] for more details.
 ### Also See
 [[FACstamp Pitch]]
 [[FACstamp Introduction]]
