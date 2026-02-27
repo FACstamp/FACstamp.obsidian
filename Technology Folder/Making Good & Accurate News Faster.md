@@ -1,0 +1,7 @@
+Given the make up of the human psyche, fear and stress based news that activatess the autonomic nervous system is frequently prioritized over good news that calms the autonomic nervous system.  Combined with common social media algorithms, **bad** news travels faster and further then **good** news.
+
+FACstamps have a fundamental property that FACstamp references are rigorously tracked.  If one post/story references another, if a tweet is re-tweeted, the references creates what is technically called a Directed Acyclic Graph (DAG).  One purpose for the maintenance of FACstamp DAGs is to communicate in both directions of the graph when a referenced FACstamp is challenged or switches its state of fitness-for-use compliance.
+
+For a downstream FACstamp that references a FACstamp that becomes non compliant (has a failing Requirement 0,1, or 2), the downstream FACstamps immediately reflect this state.  For example, if someone generates FACstamped content that contains fake news, once there is a fitness-for-use warranty claim, that data is available.  If there is a warranty judication where the stamp changes to non compliance, from green to red, then downstream stamps can display that information live.
+
+In this manner, however fast or far fake or fear based news travels, once the DAG is greated and the fake or fear based content is found non-compliant, the downstream stamps will also indicate that upstream non compliance.  In this manner accurate information travels faster and just as far.

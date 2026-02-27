@@ -3,8 +3,8 @@
 The FACstamp project is just getting off ground and is in the initial planning stages.  Volunteers are needed - please consider [[Volunteering]], perhaps becoming a board member participating in future design charrettes, or helping with some aspect of the project such as creating documentation or writing code.  Financial contributions are deeply appreciated via [Buy Me Coffee](https://www.buymeacoffee.com/windoverwater) to cover current [[Budget Roadmap & Timeline|expenses]].  A future GoFundMe campaign is in the works.
 
 See [[Website Navigation]] for assistance with website organization and navigation.
-### What is FACstamp?
-FACstamp is a project to help support trustable, non duplicitous human communication via digital content:
+#### What is FACstamp?
+FACstamp is short for a **Fair and Accurate Content Stamp**.  The FACstamp project helps support trustable, non duplicitous human communication via digital content.
 
 - Technically, FACstamp is a set of software applications leveraging cryptographic and public ledger technologies providing highly secure digital identity, privacy, and content management
 
@@ -13,8 +13,7 @@ FACstamp is a project to help support trustable, non duplicitous human communica
 - Usage wise, FACstamp supports an [Expressed Warranty](https://peoples-law.org/warranties#expresswarranties) of Fitness-for-Use that end users or applications can use to inspect Fitness-for-Use compliance of digital content that has been cryptographically stamped and signed with a FACstamp
 
 - There are significant potential [[Market Analysis|new markets]] that FACstamp adoption will create as it solves an impressive list of [[Internet Problems and FACstamp Solutions|fundamental issues]] currently plaguing how digital content is produced and consumed on the Internet
-
-For more information and details on what FACstamp is, see:
+#### For more information and details on what FACstamp is, see:
 [[What is FACstamp? - a slide presentation|A 'What is FACstamp?' slide presentation]]
 [[FACstamp Pitch]]
 [[FACstamp Introduction]]

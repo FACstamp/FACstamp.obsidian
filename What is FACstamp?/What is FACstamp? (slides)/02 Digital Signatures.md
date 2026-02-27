@@ -1,7 +1,7 @@
  [[What is FACstamp? - a slide presentation|Previous Slide]]  |  [[03 FOX News Example|Next Slide]]
 ## FACstamps are [digital signatures](https://en.wikipedia.org/wiki/Digital_signature) placed on digital content that:
 
-- Record the content in [[tamper-proof public ledger]]
+- Record the content in [[Tamper-proof Public Ledger]]
 - Provide an [[Express Warranty of Fitness-For-Use]] that the content is fit for decision making & discernment vis-a-vis:
   - Provenance of authorship ([[Requirement 0 - Authenticity]])
   - Historically accurate content ([[Requirement 1 - Historical Accuracy]])
