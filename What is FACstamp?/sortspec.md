@@ -6,7 +6,8 @@ sorting-spec: |-
     ... Introduction
     ... Dive
     FACIDs
-    ai...
+    aiFACstamp
+    cFACstamp
     %
     sortspec
 ---
