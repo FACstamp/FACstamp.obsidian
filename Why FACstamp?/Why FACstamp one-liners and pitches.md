@@ -1,0 +1,10 @@
+- FACstamp is a toolset
+	- for love and truth
+	- for creating non hierarchical networks of love and truth (the opposite of power and money hierarchies)
+	- to extend trusted, love centered community from a known, physically colocated setting into a virtual setting via the Internet.   FACstamp starts with the provenance of identity, extends into historical accuracy, and completes with enabling safe and respectful love centered connection and community.
+	- for self and community un-biasing
+	- for practicing and learning discernment in a safe and loving manner
+- Individuals and power hierarchies that operate via fear or hate will not like this project
+- FACstamp will allow consumers to evaluate if they wish to give their money, their power, or attention to a person , company, or product by their filtering digital content on FACstamps.
+	- a distributed apolitical and universal variant of https://www.goodsuniteus.com/
+- 

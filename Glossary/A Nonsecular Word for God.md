@@ -1,8 +1,8 @@
-The FACstamp effectively needs a nonsecular word for God that does not trigger aversion by most readers while also making sense.  Here is a incomplete list of words that in the general case the FACstamp project could interchange without change or loss of meaning.
+The FACstamp effectively needs a nonsecular word for God that does not trigger aversion by most readers while also making sense.  Here is a incomplete list of words that in the general case the FACstamp project could interchange without change or loss of meaning when viewed non-secularly.  However, it is critical to note that a secular choice is also fully supported without any need to accept or use other or additional meanings.
 #### Christ / Universal Christ
 #### God (Yahweh, Allah, Waheguru, ...)
 
-#### Love (Agape)
+#### Love (Agape - Greek)
 
 #### Source
 

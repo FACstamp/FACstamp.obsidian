@@ -1,0 +1,3 @@
+Cognitive theft is the theft of thought, when a thief by some means, perhaps either emotional manipulation, fallacious reasoning, or misinformation, causes the victim to feel, think, or act in a way counter to how they would feel, think, or act if they had been exposed to balanced emotional content and unbiased reasoning.
+
+Cognitive theft can be more damaging then financial theft, resulting in unjust pain and perhaps death.

@@ -1,5 +1,7 @@
 The attempt to 'practice' science, a.k.a. as the application of the scientific method, can either be successful, a.k.a, good science, or unsuccessful, a.k.a. bad science.  This does not pertain to the actual results of the scientific experiment - it just pertains to the procedures/process that was followed regarding the experiment/test and if it was truly free of biases, faulty logic, and faulty observations.
 
-Good science is when the scientific method is properly and correctly practiced.  Bad science is when it is not.  Good science requires the absence of biases of many types, the absence of fallacious logic and reasoning, and accurate data collection.  The bar is quite high in a subtle manner, a level of subtly that is frequently easy to get wrong.
+Good science is when the scientific method is properly and correctly practiced.  Bad science is when it is not.  Good science requires the absence of biases of all types, the absence of fallacious logic and reasoning, and accurate data collection.  The bar is quite high in a subtle manner, a level of subtly that is frequently easy to get wrong.
 
-TBD
+And it is important to note that bad science does not imply a bad scientist, and a good scientist does not imply good science.  The scientific method is quite clear that prior science and virtue do not enter into valuation when practicing the scientific method.  To associate prior virtue or the lack thereof as a valid reason to accept or reject some specific piece of science is to apply [faulty reasoning](https://iep.utm.edu/fallacy/), and specifically can be considered an [Ad Hominem](https://iep.utm.edu/fallacy/#AdHominem) attack.
+
+In addition, the difference between [[Intent and Impact]] also needs to be considered.  A scientist attempting to execute good science may in fact inadvertently execute incomplete or bad science.  
