@@ -2,4 +2,4 @@ If content is created that is not FACstamped, anyone with a FACstamp license can
 
 The FACstamp infrastructure supports the turnkey lookup of such references, allowing un FACstamped content to effectively be inspected by the general electorate as to its provenance, accuracy, and virtuous delivery.
 
-Workflow side note - once a reference to un-FACstamped content is FACstamped in this manner, attempts to FACstamp to the same reference will first bring follow-on users to the first such FACstamp.  See [[How to join in on a warranty claim?]].
+Workflow side note - once a reference to un-FACstamped content is FACstamped in this manner, attempts to FACstamp to the same reference will first bring follow-on users to the first such FACstamp.  See [[02 How to join in on a warranty claim?]].

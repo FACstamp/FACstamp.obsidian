@@ -4,6 +4,6 @@ To accomplish this, a set of asymmetric cryptographic keys are created once a re
 
 FACID’s are the layer that provides the authenticity of FACstamp Licensees and FACstamp Consumers.  FACID’s associate the person who signs a FACstamp License agreement with a unique online identity.
 
-See [[FACIDs]] and  [[How to create a FACID?]]
+See [[FACIDs]] and  [[01 How to create a FACID?]]
 
 The next FACstamp requirement is [[Requirement 1 - Historical Accuracy]] 

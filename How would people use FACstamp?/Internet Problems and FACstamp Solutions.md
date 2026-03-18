@@ -1,6 +1,6 @@
-The Internet, a.k.a. the World Wide Web, operates technically on what is called the [OSI Network Model](https://en.wikipedia.org/wiki/OSI_model).  And though this model supports highly secure communication, the digital content consumed directly by users is too often deliberately or accidentally untrue and intellectually or emotionally manipulative. The resulting exposure to misinformation and biased information distances people from each other and leads to enormous theft, both of financial resources and intellectual/cognitive capacity ([[Cognitive Theft]]).
+The Internet, a.k.a. the World Wide Web, operates technically on what is called the [OSI Network Model](https://en.wikipedia.org/wiki/OSI_model).  And though this model supports highly secure communication, the digital content consumed directly by users is too often deliberately or accidentally untrue and intellectually or emotionally manipulative. The resulting exposure to inaccurate, biased, and malicious information distances people from each other and leads to enormous theft, both of financial resources and intellectual/cognitive capacity ([[Cognitive Theft]]).  It prevents democracies from functioning well.
 
-This fundamental issue can be divided into more or less four categories:
+This fundamental issue with the Internet can be divided into more or less four categories:
 1) Ubiquitous anonymity
 2) Fake news
 3) Extensive knavery - extensive data and cognitive theft
@@ -28,6 +28,9 @@ List of abstract FACstamp use cases with an eye to the above four issues:
 [[09 Nuancing the difference between good and bad logic is challenging]]
 [[10 Basic stoic virtue, wisdom-consciousness, of the consumer is not prioritized]]
 [[11 The collective consciousness & discernment of 1-10 million voters needs to be increased]]
+[[12 The license agreements behind FACID and FACstamps could be used as templates]]
+[[13 FACIDs could be leveraged significantly beyond FACstamp usage]]
+[[14 Hierarchical power structures such as businesses, corporations, and governments, are comprised of human beings]]
 
 Additional and more specific FACstamp use cases:
 [[01 Social media content providers may FACstamp their content]]
@@ -36,7 +39,15 @@ Additional and more specific FACstamp use cases:
 [[04 Social media subscribers might require FACstamps for ads, marketing, and advertisements]]
 [[05 Private and public events, such as rallies, marches, and demonstrations, may ask participants to register their FACIDs]]
 [[06 Brick & mortar establishments may leverage FACstamps]]
-[[07 Hierarchical power structures such as businesses, corporations, and governments, are comprised of employees citizens]]
-[[08 Voters might ask their elected and non-elected officials to obtain FACIDs & FACstamps and to agree to conduct their official duties under their EULAs]]
-[[09 FACIDs could be leveraged significantly beyond FACstamp usage]]
-[[10 The license agreements behind FACID and FACstamps could be used as templates]]
+[[07 Voters might ask their government officials to obtain FACIDs & FACstamps]]
+
+
+FACstamp administrative use cases - how acquire FACstamp licenses, how to execute a warranty claim, etc.
+[[FACstamp Workflow Overview]] 
+[[01 How to create a FACID?]] 
+[[02 How to join in on a warranty claim?]] 
+[[03 How to sign up for a FACstamp?]] 
+[[04 What happens when a warranty claim is approved?]] 
+[[05 What happens when a warranty claim is rejected?]] 
+[[06 What happens when an upstream FACstamp changes state?]] 
+[[07 What happens when content is not FACstamped . . .]] 

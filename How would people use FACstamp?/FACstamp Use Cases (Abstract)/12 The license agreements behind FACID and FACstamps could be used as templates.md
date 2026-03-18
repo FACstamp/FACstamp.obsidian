@@ -2,4 +2,4 @@ If properly written and organized, the FACID and FACstamp license agreements mig
 
 Note that FACstamp and FACID would both be trademarked and heavily defended from infringement, limiting the potential look-alike fakes and hacks.
 
-[[Additional Downstream FACstamp Opportunities|Back to the Index]] 
+[[Extending FACstamp to cover AI and Corporate Entities|Back to the Index]] 

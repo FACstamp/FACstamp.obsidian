@@ -1,4 +1,4 @@
-## 1\) Background Information
+## 1) Background Information
 
 ### 1.1) FACstamp Summary
 
@@ -68,7 +68,7 @@ Note that this type of network is actually a directed acyclic graph (DAG) and as
 
 Also note that nodes and edges can disappear.  Though this can for example allow a red node to change color to say green due to an upstream red node or edge disappearing, the network graph data is always contained fully in a Merkle Tree with full version history.  As such a node losing a single reference that was red can go green but it could/would have a cautionary marking that indicated that historically it was once red by reference.
 
-## 2\) Workflows
+## 2) Workflows
 
 ### 2.1) Creating a FACID or a FACstamp
 
