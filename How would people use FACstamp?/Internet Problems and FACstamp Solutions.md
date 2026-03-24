@@ -1,6 +1,6 @@
 The Internet, a.k.a. the World Wide Web, operates technically on what is called the [OSI Network Model](https://en.wikipedia.org/wiki/OSI_model).  And though this model supports highly secure communication, the digital content consumed directly by users is too often deliberately or accidentally untrue and intellectually or emotionally manipulative. The resulting exposure to inaccurate, biased, and malicious information distances people from each other and leads to enormous theft, both of financial resources and intellectual/cognitive capacity ([[Cognitive Theft]]).  It prevents democracies from functioning well.
 
-This fundamental issue with the Internet can be divided into more or less four categories:
+This fundamental issue with the Internet can be divided into more or less four fundamental categories:
 1) Ubiquitous anonymity
 2) Fake news
 3) Extensive knavery - extensive data and cognitive theft

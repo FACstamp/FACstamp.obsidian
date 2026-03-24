@@ -1,7 +1,7 @@
 FACstamp is a cryptographic based communication and social networking service that supports trustable, non duplicitous human communication via digital content
 
 Facstamp:
-- Directly facilitates a cultural shift towards a more fair and responsible, accurate and non duplicitous, digital content in both creation and consumption
+- Directly facilitates a cultural shift towards more fair and responsible, accurate and non duplicitous, digital content - FACstamp counters [[Cognitive Theft]] 
 - Creates a cryptographic fitness-for-use warranty program supporting a simple and easy method of creating and tracking fitness-for-use warranty claims on digital content
 - Creates a secure and private internet user identity anonymously and uniquely tied to voter registration name and address
 

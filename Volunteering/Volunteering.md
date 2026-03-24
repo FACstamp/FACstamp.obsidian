@@ -4,7 +4,7 @@ However, the inherent anonymity and ubiquitousness of the internet is only partl
 
 The FACstamp project is aimed at addressing this fundamental issue as it occurs on the internet and in social and main stream media outlets and sources.  It is a moonshot and still in the exploratory phase.
 
-The current FACstamp project priority is to convene a small working group, a design charrette, of perhaps 4-6 people to work out the high level workflows surrounding the actual warranty claim process.  Please consider volunteering for this design charrette or engaging in this work in some other manner.  See [[Budget Roadmap & Timeline]]
+The current FACstamp project priority is to convene a small working group, a design charrette, of perhaps 4-6 people to work out the high level workflows surrounding the actual warranty claim process.  Please consider volunteering for this design charrette or engaging in this work in some other manner.  See [[Please Offer Feedback]] and [[Budget Roadmap & Timeline]].
 
 To volunteer or become involved, please reach out via some trust-able platform, for example [linkedin](https://linkedin.com) or [GitHub](https://github.com) or in person :-)
 

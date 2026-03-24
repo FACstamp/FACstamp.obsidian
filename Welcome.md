@@ -1,6 +1,6 @@
 <span class="center" style="color: #FF0000;">🚧 &nbsp under construction &nbsp 🚧 </span>
 ### Welcome
-The FACstamp project is just getting off ground and is in the initial planning stages.  Volunteers are needed - please consider [[Volunteering]], perhaps becoming a board member or participating in future design charrettes, or helping with some aspect of the project such as creating documentation or writing code.  Financial contributions are deeply appreciated via [Buy Me Coffee](https://www.buymeacoffee.com/windoverwater) to cover current [[Budget Roadmap & Timeline|expenses]].  A future GoFundMe campaign is in the works.
+The FACstamp project is just getting off ground and is in the initial planning stages.  Volunteers are needed - please consider [[Please Offer Feedback|offering feedback]] or [[Volunteering]], perhaps becoming a board member or participating in future design charrettes, or helping with some aspect of the project such as creating documentation or writing code.  Financial contributions are deeply appreciated via [Buy Me Coffee](https://www.buymeacoffee.com/windoverwater) to cover current [[Budget Roadmap & Timeline|expenses]].  A future GoFundMe campaign is in the works.
 #### What is FACstamp?
 FACstamp is short for a **Fair and Accurate Content Stamp**.  The FACstamp project helps support trustable, non duplicitous human communication via digital content.  Here is the pitch:
 
