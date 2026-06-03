@@ -4,4 +4,4 @@ The project has already received preliminary technical and legal feedback, all o
 
 Once we have four to six volunteers willing to put in approximately 40-80 hours each, we will convene a series of design charrettes to work out these use cases in more detail.  And then go back for a deeper tech and legal review.
 
-Until then, please consider offering feedback either by starting [GitHub Discussion](https://github.com/FACstamp/FACstamp.obsidian/discussions/categories/general) or reaching out via this [email relay](mailto:97.striped.aerator@icloud.com).
+Until then, please consider offering feedback either by starting a [GitHub Discussion](https://github.com/FACstamp/FACstamp.obsidian/discussions/categories/general) or reaching out via this [email relay](mailto:97.striped.aerator@icloud.com).
